@@ -34,7 +34,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://arxiv.org/abs/1910.09014 
-url_code: ''
+url_code: https://uhlerlab.github.io/causaldag/gspo 
 url_dataset: ''
 url_poster: ''
 url_project: ''
