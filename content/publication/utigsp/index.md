@@ -14,14 +14,14 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-# publication: "The 22nd Internation Conference on Artificial Intelligence and Statistics"
-# publication_short: "ICML"
+publication: "The Conference on Uncertainty in Artificial Intelligence"
+publication_short: "UAI"
 
 abstract: We consider the problem of estimating causal DAG models from a mix of observational and interventional data, when the intervention targets are partially or completely unknown. This problem is highly relevant for example in genomics, since gene knockout technologies are known to have off-target effects. We characterize the interventional Markov equivalence class of DAGs that can be identified from interventional data with unknown intervention targets. In addition, we propose a provably consistent algorithm for learning the interventional Markov equivalence class from such data. The proposed algorithm greedily searches over the space of permutations to minimize a novel score function. The algorithm is nonparametric, which is particularly important for applications to genomics, where the relationships between variables are often non-linear and the distribution non-Gaussian. We demonstrate the performance of our algorithm on synthetic and biological datasets.
- 
+
 
 # Summary. An optional shortened abstract. 
 
