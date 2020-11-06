@@ -4,6 +4,9 @@ authors:
 - admin
 - "Joshua Amaniampong"
 - "Caroline Uhler"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2020-11-05T00:00:00Z"
 doi: ""
 
