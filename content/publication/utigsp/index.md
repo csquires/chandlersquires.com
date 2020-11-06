@@ -3,7 +3,7 @@ title: "Permutation-Based Causal Structure Learning with Unknown Intervention Ta
 authors:
 - admin
 - Yuhao Wang 
-- "Caroline Uhler"
+- Caroline Uhler
 date: "2019-10-20T00:00:00Z"
 doi: ""
 

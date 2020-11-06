@@ -1,16 +1,14 @@
 ---
-# Display name
-name: Chandler Squires 
-
 # Username (this should match the folder name)
-authors:
-- admin
+title: Chandler Squires
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Graduate Student 
+role: Graduate Student
+
+highlight_name: true
 
 # Organizations/Affiliations
 organizations:
