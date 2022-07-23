@@ -3,7 +3,7 @@ title: "Causal Structure Learning: a Combinatorial Perspective"
 authors:
 - Chandler Squires
 - Caroline Uhler
-date: "2020-11-05T00:00:00Z"
+date: "2022-06-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ abstract: In this review, we discuss approaches for learning causal structure fr
 
 tags:
 - Causal Discovery
-featured: false
+featured: true
 
 # links:
 # - name: ""
