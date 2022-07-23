@@ -16,7 +16,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include causal structure discovery, active learning, and identification of latent variables. 
+bio: My research interests include causal structure discovery, active learning, and identification of latent variables.
 
 interests:
 - Causal Inference 
@@ -62,4 +62,6 @@ user_groups:
 - Visitors
 ---
 
-My research is centered on learning the effects of intervening in complex systems, with a particular focus on cellular biology and healthcare. This spans causal structure learning, active learning for causal structure discovery, and multimodal data integration. I am lucky enough to be co-advised by Caroline Uhler and David Sontag.
+My research is centered on learning the effects of intervening in complex systems, with a particular focus on cellular biology and healthcare. This spans causal structure learning, active learning for causal structure discovery, causal representation learning, and treatment effect estimation. I am lucky enough to be co-advised by Caroline Uhler and David Sontag.
+
+Slides from my talks can be found at https://github.com/csquires/chandler-squires-talks/blob/main/README.md.

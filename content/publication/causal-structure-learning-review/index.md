@@ -1,14 +1,8 @@
 ---
-title: "Causal Imputation via Synthetic Interventions"
+title: "Causal Structure Learning: a Combinatorial Perspective"
 authors:
 - Chandler Squires
-- Dennis Shen
-- Anish Agarwal
-- Devavrat Shah
 - Caroline Uhler
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2020-11-05T00:00:00Z"
 doi: ""
 
@@ -19,25 +13,25 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ''
 publication_short: ''
 
-abstract: Consider the problem of determining the effect of a drug on a specific cell type. To answer this question, researchers traditionally need to run an experiment applying the drug of interest to that cell type. This approach is not scalable - given a large number of different actions (drugs) and a large number of different contexts (cell types), it is infeasible to run an experiment for every action-context pair. In such cases, one would ideally like to predict the result for every pair while only having to perform experiments on a small subset of pairs. This task, which we label "causal imputation", is a generalization of the causal transportability problem. In this paper, we provide two main contributions. First, we demonstrate the efficacy of the recently introduced *synthetic interventions* estimator on the task of causal imputation when applied to the prominent CMAP dataset. Second, we explain the demonstrated success of this estimator by introducing a generic *linear structural causal model* which accounts for the interaction between cell type and drug.
+abstract: In this review, we discuss approaches for learning causal structure from data, also called causal discovery. In particular, we focus on approaches for learning directed acyclic graphs (DAGs) and various generalizations which allow for some variables to be unobserved in the available data. We devote special attention to two fundamental combinatorial aspects of causal structure learning. First, we discuss the structure of the search space over causal graphs. Second, we discuss the structure of equivalence classes over causal graphs, i.e., sets of graphs which represent what can be learned from observational data alone, and how these equivalence classes can be refined by adding interventional data.
 
 
 # Summary. An optional shortened abstract. 
 
 tags:
-- Imputation
+- Causal Discovery
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://arxiv.org/abs/2011.03127" 
+url_pdf: "https://arxiv.org/abs/2206.01152" 
 url_code: ''
 url_dataset: ''
 url_poster: ''

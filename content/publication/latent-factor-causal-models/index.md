@@ -1,10 +1,10 @@
 ---
-title: "Causal Imputation via Synthetic Interventions"
+title: "Causal structure discovery between clusters of nodes induced by latent factors"
 authors:
 - Chandler Squires
-- Dennis Shen
-- Anish Agarwal
-- Devavrat Shah
+- Annie Yun
+- Eshaan Nichani
+- Raj Agrawal
 - Caroline Uhler
 author_notes:
 - "Equal contribution"
@@ -25,19 +25,19 @@ publication_types: ["1"]
 publication: ''
 publication_short: ''
 
-abstract: Consider the problem of determining the effect of a drug on a specific cell type. To answer this question, researchers traditionally need to run an experiment applying the drug of interest to that cell type. This approach is not scalable - given a large number of different actions (drugs) and a large number of different contexts (cell types), it is infeasible to run an experiment for every action-context pair. In such cases, one would ideally like to predict the result for every pair while only having to perform experiments on a small subset of pairs. This task, which we label "causal imputation", is a generalization of the causal transportability problem. In this paper, we provide two main contributions. First, we demonstrate the efficacy of the recently introduced *synthetic interventions* estimator on the task of causal imputation when applied to the prominent CMAP dataset. Second, we explain the demonstrated success of this estimator by introducing a generic *linear structural causal model* which accounts for the interaction between cell type and drug.
+abstract: We consider the problem of learning the structure of a causal directed acyclic graph (DAG) model in the presence of latent variables. We define "latent factor causal models" (LFCMs) as a restriction on causal DAG models with latent variables, which are composed of clusters of observed variables that share the same latent parent and connections between these clusters given by edges pointing from the observed variables to latent variables. LFCMs are motivated by gene regulatory networks, where regulatory edges, corresponding to transcription factors, connect spatially clustered genes. We show identifiability results on this model and design a consistent three-stage algorithm that discovers clusters of observed nodes, a partial ordering over clusters, and finally, the entire structure over both observed and latent nodes. We evaluate our method in a synthetic setting, demonstrating its ability to almost perfectly recover the ground truth clustering even at relatively low sample sizes, as well as the ability to recover a significant number of the edges from observed variables to latent factors. Finally, we apply our method in a semi-synthetic setting to protein mass spectrometry data with a known ground truth network, and achieve almost perfect recovery of the ground truth variable clusters.
 
 
 # Summary. An optional shortened abstract. 
 
 tags:
-- Imputation
+- Causal Discovery
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://arxiv.org/abs/2011.03127" 
+url_pdf: "https://arxiv.org/abs/2207.01237" 
 url_code: ''
 url_dataset: ''
 url_poster: ''
