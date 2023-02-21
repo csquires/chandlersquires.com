@@ -16,11 +16,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include causal structure discovery, active learning, and identification of latent variables.
+bio: My research interests include causal structure discovery, active learning, and causal representation learning.
 
 interests:
-- Causal Inference 
-- Graphical Models 
+- Causal Structure Learning 
+- Causal Representation Learning
 - Biological/Healthcare Applications 
 
 education:
@@ -62,6 +62,9 @@ user_groups:
 - Visitors
 ---
 
-My research is centered on learning the effects of intervening in complex systems, with a particular focus on cellular biology and healthcare. This spans causal structure learning, active learning for causal structure discovery, causal representation learning, and treatment effect estimation. I am lucky enough to be co-advised by Caroline Uhler and David Sontag.
+I am a fourth-year PhD student in EECS at MIT. My research is centered on learning the effects of interventions and distribution shift in complex systems, with a particular focus on cellular biology and healthcare. This spans causal structure learning, experimental design, causal representation learning, and treatment effect estimation. I am lucky to be co-advised by [Caroline Uhler](https://www.carolineuhler.com) and [David Sontag](https://people.csail.mit.edu/dsontag/).
 
-Slides from my talks can be found at https://github.com/csquires/chandler-squires-talks/blob/main/README.md.
+Slides from my talks can be found [here](https://github.com/csquires/chandler-squires-talks/blob/main/README.md). Lecture notes and recordings from my course on causality can be found [here](https://arxiv.org/abs/2006.03735).
+
+I am the main developer of [causaldag](https://github.com/uhlerlab/causaldag).
+
