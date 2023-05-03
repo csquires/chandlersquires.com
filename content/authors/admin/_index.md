@@ -64,7 +64,7 @@ user_groups:
 
 I am a fourth-year PhD student in EECS at MIT. My research is centered on learning the effects of interventions and distribution shift in complex systems, with a particular focus on cellular biology and healthcare. This spans causal structure learning, experimental design, causal representation learning, and treatment effect estimation. I am lucky to be co-advised by [Caroline Uhler](https://www.carolineuhler.com) and [David Sontag](https://people.csail.mit.edu/dsontag/).
 
-Slides from my talks can be found [here](https://github.com/csquires/chandler-squires-talks/blob/main/README.md). Lecture notes and recordings from my course on causality can be found [here](https://arxiv.org/abs/2006.03735).
+Slides from my talks can be found [here](https://github.com/csquires/chandler-squires-talks/blob/main/README.md). Lecture notes and recordings from my course on causality can be found [here](https://www.youtube.com/playlist?list=PLiyH4sDpByicWHWv-xaI4gRbxrpFv2-FA).
 
 I am the main developer of [causaldag](https://github.com/uhlerlab/causaldag).
 
