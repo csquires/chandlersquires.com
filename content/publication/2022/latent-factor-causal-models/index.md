@@ -1,5 +1,5 @@
 ---
-title: "Causal structure discovery between clusters of nodes induced by latent factors"
+title: "Causal Structure Discovery between Clusters of Nodes Induced by Latent Factors"
 authors:
 - Chandler Squires
 - Annie Yun
@@ -9,7 +9,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2022-06-28T00:00:00Z"
+date: "2022-04-11T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +32,8 @@ abstract: We consider the problem of learning the structure of a causal directed
 
 tags:
 - Causal Structure Learning
-featured: false
+- Unobserved Confounding
+featured: true
 
 # links:
 # - name: ""

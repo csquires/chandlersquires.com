@@ -17,7 +17,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: 'The Journal of the Society of the Foundations of Computation Mathematics'
-publication_short: 'JoFCM'
+publication_short: 'JoFCM 2022'
 
 abstract: In this review, we discuss approaches for learning causal structure from data, also called causal discovery. In particular, we focus on approaches for learning directed acyclic graphs (DAGs) and various generalizations which allow for some variables to be unobserved in the available data. We devote special attention to two fundamental combinatorial aspects of causal structure learning. First, we discuss the structure of the search space over causal graphs. Second, we discuss the structure of equivalence classes over causal graphs, i.e., sets of graphs which represent what can be learned from observational data alone, and how these equivalence classes can be refined by adding interventional data.
 

@@ -9,7 +9,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2022-06-28T00:00:00Z"
+date: "2022-04-11T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -32,7 +32,7 @@ abstract: Consider the problem of determining the effect of a drug on a specific
 
 tags:
 - Imputation
-featured: false
+featured: true
 
 # links:
 # - name: ""

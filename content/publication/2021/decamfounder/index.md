@@ -27,7 +27,8 @@ abstract: Many real-world decision-making tasks require learning causal relation
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Causal Structure Learning 
+- Causal Structure Learning
+- Unobserved Confounding
 featured: false
 
 # links:

@@ -1,13 +1,15 @@
 ---
-title: "Unpaired Multi-Domain Causal Representation Learning"
+title: "Identifiability Guarantees for Causal Disentanglement from Soft Interventions"
 authors:
-- Nils Sturma
+- Jiaqi Zhang
 - Chandler Squires
-- Mathias Drton
+- Kristjan Greenewald
+- Akash Srivastava
+- Karthikeyan Shanmugam
 - Caroline Uhler
 author_notes:
 - 
-date: "2023-02-02T00:00:00Z"
+date: "2023-07-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -23,20 +25,20 @@ publication_types: ["3"]
 publication: ''
 publication_short: ''
 
-abstract: The goal of causal representation learning is to find a representation of data that consists of causally related latent variables. We consider a setup where one has access to data from multiple domains that potentially share a causal representation. Crucially, observations in different domains are assumed to be unpaired, that is, we only observe the marginal distribution in each domain but not their joint distribution. In this paper, we give sufficient conditions for identifiability of the joint distribution and the shared causal graph in a linear setup. Identifiability holds if we can uniquely recover the joint distribution and the shared causal representation from the marginal distributions in each domain. We transform our identifiability results into a practical method to recover the shared latent causal graph. Moreover, we study how multiple domains reduce errors in falsely detecting shared causal variables in the finite data setting.
+abstract: Causal disentanglement aims to uncover a representation of data using latent variables that are interrelated through a causal model. Such a representation is identifiable if the latent model that explains the data is unique. In this paper, we focus on the scenario where unpaired observational and interventional data are available, with each intervention changing the mechanism of a latent variable. When the causal variables are fully observed, statistically consistent algorithms have been developed to identify the causal model under faithfulness assumptions. We here show that identifiability can still be achieved with unobserved causal variables, given a generalized notion of faithfulness. Our results guarantee that we can recover the latent causal model up to an equivalence class and predict the effect of unseen combinations of interventions, in the limit of infinite data. We implement our causal disentanglement framework by developing an autoencoding variational Bayes algorithm and apply it to the problem of predicting combinatorial perturbation effects in genomics.
 
 
 # Summary. An optional shortened abstract. 
 
 tags:
 - Causal Representation Learning
-- Multi-modal
+- Interventions
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "https://arxiv.org/abs/2302.00993" 
+url_pdf: "https://arxiv.org/abs/2307.06250" 
 url_code: ''
 url_dataset: ''
 url_poster: ''

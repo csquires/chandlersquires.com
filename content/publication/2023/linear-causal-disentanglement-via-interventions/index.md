@@ -8,7 +8,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2022-11-29T00:00:00Z"
+date: "2023-07-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,8 +21,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ''
-publication_short: ''
+publication: 'Interational Conference on Machine Learning'
+publication_short: 'ICML 2023'
 
 abstract: Causal disentanglement seeks a representation of data involving latent variables that relate to one another via a causal model. A representation is identifiable if both the latent model and the transformation from latent to observed variables are unique. In this paper, we study observed variables that are a linear transformation of a linear latent causal model. Data from interventions are necessary for identifiability - if one latent variable is missing an intervention, we show that there exist distinct models that cannot be distinguished. Conversely, we show that a single intervention on each latent variable is sufficient for identifiability. Our proof uses a generalization of the RQ decomposition of a matrix that replaces the usual orthogonal and upper triangular conditions with analogues depending on a partial order on the rows of the matrix, with partial order determined by a latent causal model. We corroborate our theoretical results with a method for causal disentanglement that accurately recovers a latent causal model.
 
@@ -31,6 +31,7 @@ abstract: Causal disentanglement seeks a representation of data involving latent
 
 tags:
 - Causal Representation Learning
+- Interventions
 featured: true
 
 # links:

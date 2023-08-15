@@ -6,7 +6,7 @@ title: Chandler Squires
 superuser: true
 
 # Role/position
-role: Graduate Student
+role: PhD Student
 
 highlight_name: true
 
@@ -20,6 +20,7 @@ bio: My research interests include causal structure discovery, active learning, 
 
 interests:
 - Causal Structure Learning 
+- Experimental Design
 - Causal Representation Learning
 - Biological/Healthcare Applications 
 
@@ -62,9 +63,16 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth-year PhD student in EECS at MIT. My research is centered on learning the effects of interventions and distribution shift in complex systems, with a particular focus on cellular biology and healthcare. This spans causal structure learning, experimental design, causal representation learning, and treatment effect estimation. I am lucky to be co-advised by [Caroline Uhler](https://www.carolineuhler.com) and [David Sontag](https://people.csail.mit.edu/dsontag/).
+I am a final year PhD student in EECS at MIT. I will be applying for faculty positions this fall (2023)! I am lucky to be co-advised by [Caroline Uhler](https://www.carolineuhler.com) and [David Sontag](https://people.csail.mit.edu/dsontag/).
 
-Slides from my talks can be found [here](https://github.com/csquires/chandler-squires-talks/blob/main/README.md). Lecture notes and recordings from my course on causality can be found [here](https://www.youtube.com/playlist?list=PLiyH4sDpByicWHWv-xaI4gRbxrpFv2-FA).
+My long-term research is focused on rigorously applying machine learning and AI to accelerate scientific discovery, and to make robust predictions for interventions in complex systems. 
+This involves developing methodology for <b><i>causal structure learning</i></b>, <b><i>experimental design</i></b>, and <b><i>identifiable representation learning</i></b>.
+In my PhD, I have focused on applying these methods in the context of cellular biology and healthcare.
 
-I am the main developer of [causaldag](https://github.com/uhlerlab/causaldag).
+I'm a strong believer in the value of effective communication skills, and I'm a fellow in the [EECS Communication Lab](https://mitcommlab.mit.edu/eecs/).
+Here are links to my [slides](https://github.com/csquires/chandler-squires-talks/blob/main/README.md) and [posters](https://github.com/csquires/chandler-squires-posters). 
+
+I take a lot of pride in mentoring and teaching, lecture notes and recordings from my 2023 course on causality can be found [here](https://www.youtube.com/playlist?list=PLiyH4sDpByicWHWv-xaI4gRbxrpFv2-FA).
+
+I am the main developer of [causaldag](https://github.com/uhlerlab/causaldag), a Python package for creating, manipulating, and learning causal graphical models.
 
