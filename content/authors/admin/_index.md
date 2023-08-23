@@ -63,11 +63,11 @@ user_groups:
 - Visitors
 ---
 
-I am a final year PhD student in EECS at MIT. I will be applying for faculty positions this fall (2023)! I am lucky to be co-advised by [Caroline Uhler](https://www.carolineuhler.com) and [David Sontag](https://people.csail.mit.edu/dsontag/).
+I am a final year PhD student in EECS at MIT. I am currently applying for faculty positions (Fall 2023). I am extremely fortunate to be advised by [Caroline Uhler](https://www.carolineuhler.com) and [David Sontag](https://people.csail.mit.edu/dsontag/).
 
 My long-term research is focused on rigorously applying machine learning and AI to accelerate scientific discovery, and to make robust predictions for interventions in complex systems. 
 This involves developing methodology for <b><i>causal structure learning</i></b>, <b><i>experimental design</i></b>, and <b><i>identifiable representation learning</i></b>.
-In my PhD, I have focused on applying these methods in the context of cellular biology and healthcare.
+In my PhD, I have focused on applying these methods in the context of cellular biology.
 
 I'm a strong believer in the value of effective communication skills, and I'm a fellow in the [EECS Communication Lab](https://mitcommlab.mit.edu/eecs/).
 Here are links to my [slides](https://github.com/csquires/chandler-squires-talks/blob/main/README.md) and [posters](https://github.com/csquires/chandler-squires-posters). 
