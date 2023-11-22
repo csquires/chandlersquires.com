@@ -6,7 +6,7 @@ title: Chandler Squires
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD Candidate
 
 highlight_name: true
 
@@ -19,10 +19,11 @@ organizations:
 bio: My research interests include causal structure discovery, active learning, and causal representation learning.
 
 interests:
-- Causal Structure Learning 
+- Causal Structure Learning
 - Experimental Design
 - Causal Representation Learning
-- Biological/Healthcare Applications 
+- High-Dimensional Statistics and Semiparametric Efficiency
+- Computational Biology/Genomics
 
 education:
   courses:
@@ -63,16 +64,20 @@ user_groups:
 - Visitors
 ---
 
-I am a final year PhD student in EECS at MIT. I am currently applying for faculty positions (Fall 2023). I am extremely fortunate to be advised by [Caroline Uhler](https://www.carolineuhler.com) and [David Sontag](https://people.csail.mit.edu/dsontag/).
+I am a final year PhD student in EECS at MIT. <b>I am currently applying for faculty positions in Statistics and Computer Science (as of Fall 2023)</b>. I am extremely fortunate to be advised by [Caroline Uhler](https://www.carolineuhler.com) and [David Sontag](https://people.csail.mit.edu/dsontag/).
 
-My long-term research is focused on rigorously applying machine learning and AI to accelerate scientific discovery, and to make robust predictions for interventions in complex systems. 
+My long-term research is focused on rigorously applying machine learning and AI to accelerate scientific discovery, and to make robust predictions about the effects of interventions in complex systems. 
 This involves developing methodology for <b><i>causal structure learning</i></b>, <b><i>experimental design</i></b>, and <b><i>identifiable representation learning</i></b>.
-In my PhD, I have focused on applying these methods in the context of cellular biology.
+I ground my work by applying these methods to problems in cellular biology, such as predicting the effects of drugs in different types of cancer cells.
 
-I'm a strong believer in the value of effective communication skills, and I'm a fellow in the [EECS Communication Lab](https://mitcommlab.mit.edu/eecs/).
-Here are links to my [slides](https://github.com/csquires/chandler-squires-talks/blob/main/README.md) and [posters](https://github.com/csquires/chandler-squires-posters). 
+---
+I really enjoy teaching, mentoring, and organizing academic initiatives.
+Check out the [lecture notes](https://github.com/csquires/6.S091-causality) and [recordings](https://www.youtube.com/playlist?list=PLiyH4sDpByicWHWv-xaI4gRbxrpFv2-FA) for the causality class that I developed for MIT's 2023 January term, and check out the talk series on [Causality, Abstraction, Reasoning, and Extrapolation (CARE)](https://portal.valencelabs.com/care) that I am currently co-organizing. 
 
-I take a lot of pride in mentoring and teaching, lecture notes and recordings from my 2023 course on causality can be found [here](https://www.youtube.com/playlist?list=PLiyH4sDpByicWHWv-xaI4gRbxrpFv2-FA).
+I'm a strong believer in the value of effective communication skills, serving as a coach in the [EECS Communication Lab](https://mitcommlab.mit.edu/eecs/).
+Hopefully some of what I've learned from this experience is reflected in my [slides](https://github.com/csquires/chandler-squires-talks/blob/main/README.md) and [posters](https://github.com/csquires/chandler-squires-posters).
 
-I am the main developer of [causaldag](https://github.com/uhlerlab/causaldag), a Python package for creating, manipulating, and learning causal graphical models.
+Finally, I like writing good, easy-to-use code (when time permits &#128517;), and I am the main developer of [causaldag](https://github.com/uhlerlab/causaldag), a Python package for creating, manipulating, and learning causal graphical models.
+Shoot me an email to chat about the package or my work!
 
+---
