@@ -1,7 +1,7 @@
 ---
 title: "Causal Structure Discovery between Clusters of Nodes Induced by Latent Factors"
 authors:
-- Chandler Squires
+- admin
 - Annie Yun
 - Eshaan Nichani
 - Raj Agrawal
@@ -33,7 +33,7 @@ abstract: We consider the problem of learning the structure of a causal directed
 tags:
 - Causal Structure Learning
 - Unobserved Confounding
-featured: true
+featured: false
 
 # links:
 # - name: ""

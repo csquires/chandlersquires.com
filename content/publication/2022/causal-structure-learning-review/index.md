@@ -1,7 +1,7 @@
 ---
 title: "Causal Structure Learning: a Combinatorial Perspective"
 authors:
-- Chandler Squires
+- admin
 - Caroline Uhler
 date: "2022-08-01T00:00:00Z"
 doi: ""

@@ -1,7 +1,7 @@
 ---
 title: "Linear Causal Disentanglement via Interventions"
 authors:
-- Chandler Squires
+- admin
 - Anna Seigal
 - Salil Bhate
 - Caroline Uhler

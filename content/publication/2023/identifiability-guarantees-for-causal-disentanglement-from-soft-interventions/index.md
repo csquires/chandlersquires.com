@@ -3,7 +3,7 @@ title: "Identifiability Guarantees for Causal Disentanglement from Soft Interven
 authors:
 - Jiaqi Zhang
 - Kristjan Greenewald
-- Chandler Squires
+- admin
 - Akash Srivastava
 - Karthikeyan Shanmugam
 - Caroline Uhler

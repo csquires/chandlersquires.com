@@ -27,7 +27,7 @@ abstract: We consider the problem of estimating causal DAG models from a mix of 
 
 tags:
 - Causal Structure Learning 
-featured: true
+featured: false
 
 # links:
 # - name: ""
