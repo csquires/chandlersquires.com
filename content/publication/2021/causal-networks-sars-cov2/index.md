@@ -1,5 +1,5 @@
 ---
-title: "Causal network models of SARS-CoV-2 expression and aging to identify candidates for drug repurposing"
+title: "Causal Network Models of SARS-CoV-2 Expression and Aging to Identify Candidates for Drug Repurposing"
 authors:
 - Anastasiya Belyaeva
 - Louis Cammarate

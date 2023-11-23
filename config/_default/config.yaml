@@ -5,7 +5,7 @@
 
 title: Chandler Squires # Website name
 baseURL: '/' # Website URL
-logo: "c.png"
+logo: "static/img/logo.png"
 
 ############################
 ## LANGUAGE

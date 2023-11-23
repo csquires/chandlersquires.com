@@ -64,20 +64,24 @@ user_groups:
 - Visitors
 ---
 
-I am a final year PhD student in EECS at MIT. <b>I am currently applying for faculty positions in Statistics and Computer Science (as of Fall 2023)</b>. I am extremely fortunate to be advised by [Caroline Uhler](https://www.carolineuhler.com) and [David Sontag](https://people.csail.mit.edu/dsontag/).
+I am a final year PhD student in EECS at MIT. I am  <b><i>currently applying for faculty positions</i></b> in Statistics and Computer Science (as of Fall 2023).
+I am extremely fortunate to be advised by [Caroline Uhler](https://www.carolineuhler.com) and [David Sontag](https://people.csail.mit.edu/dsontag/).
 
-My long-term research is focused on rigorously applying machine learning and AI to accelerate scientific discovery, and to make robust predictions about the effects of interventions in complex systems. 
-This involves developing methodology for <b><i>causal structure learning</i></b>, <b><i>experimental design</i></b>, and <b><i>identifiable representation learning</i></b>.
-I ground my work by applying these methods to problems in cellular biology, such as predicting the effects of drugs in different types of cancer cells.
+Ny research focuses on building the statistical and computational foundations for AI-driven decision-making in scientific applications, and I work on methods for <b>causal structure learning</b>, <b>experimental design</b>, and <b>causal representation learning</b>.
+
+As a member of the [Eric and Wendy Schmidt Center](https://www.ericandwendyschmidtcenter.org), my work is grounded by problems in cellular biology, e.g. predicting the effect of a drug in novel cancer cell lines.
 
 ---
+<u><b>Teaching and Organizing.</b></u> 
 I really enjoy teaching, mentoring, and organizing academic initiatives.
-Check out the [lecture notes](https://github.com/csquires/6.S091-causality) and [recordings](https://www.youtube.com/playlist?list=PLiyH4sDpByicWHWv-xaI4gRbxrpFv2-FA) for the causality class that I developed for MIT's 2023 January term, and check out the talk series on [Causality, Abstraction, Reasoning, and Extrapolation (CARE)](https://portal.valencelabs.com/care) that I am currently co-organizing. 
+Check out the [lecture notes](https://github.com/csquires/6.S091-causality) and [recordings](https://www.youtube.com/playlist?list=PLiyH4sDpByicWHWv-xaI4gRbxrpFv2-FA) for the causality class that I developed for MIT's 2023 January term, and join the ongoing talk series, [Causality, Abstraction, Reasoning, and Extrapolation (CARE)](https://portal.valencelabs.com/care), that I am co-organizing. 
 
-I'm a strong believer in the value of effective communication skills, serving as a coach in the [EECS Communication Lab](https://mitcommlab.mit.edu/eecs/).
-Hopefully some of what I've learned from this experience is reflected in my [slides](https://github.com/csquires/chandler-squires-talks/blob/main/README.md) and [posters](https://github.com/csquires/chandler-squires-posters).
+<u><b>Communication.</b></u> I believe that communicating technical material is one of the most important and most challenging activities in a research career.
+As a member of the [EECS Communication Lab](https://mitcommlab.mit.edu/eecs/), I coach researchers on how to communicate more effectively.
 
-Finally, I like writing good, easy-to-use code (when time permits &#128517;), and I am the main developer of [causaldag](https://github.com/uhlerlab/causaldag), a Python package for creating, manipulating, and learning causal graphical models.
+<u><b>Software.</b></u> I like writing good, easy-to-use code (when time permits &#128517;), and I am the main developer of [causaldag](https://github.com/uhlerlab/causaldag), a Python package for creating, manipulating, and learning causal graphical models.
 Shoot me an email to chat about the package or my work!
+
+<u><b>Other materials.</b></u> I try to keep an up-to-date repository of [slides](https://github.com/csquires/chandler-squires-talks/blob/main/README.md) from my talks and [posters](https://github.com/csquires/chandler-squires-posters) from conferences and workshops.
 
 ---
